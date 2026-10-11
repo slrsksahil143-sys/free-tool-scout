@@ -1,0 +1,36 @@
+name: 24/7 Free Tool Scout
+
+on:
+  schedule:
+    # Run every 6 hours automatically (24/7)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Free Tool Scout
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scout.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Scout"
+          git add DISCOVERED_TOOLS.md tools_database.json
+          git diff --staged --quiet || git commit -m "chore(scout): update discovered free tools [skip ci]"
+          git push
