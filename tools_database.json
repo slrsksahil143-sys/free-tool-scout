@@ -1,0 +1,402 @@
+{
+  "NousResearch/hermes-agent": {
+    "name": "hermes-agent",
+    "full_name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "stars": 252797,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "Panniantong/Agent-Reach": {
+    "name": "Agent-Reach",
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "stars": 95999,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "shareAI-lab/learn-claude-code": {
+    "name": "learn-claude-code",
+    "full_name": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+    "stars": 78369,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "thedaviddias/Front-End-Checklist": {
+    "name": "Front-End-Checklist",
+    "full_name": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "\ud83d\uddc2 The essential checklist for modern web development, for humans and AI agents",
+    "stars": 74435,
+    "language": "MDX",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "career-ops-hq/career-ops": {
+    "name": "career-ops",
+    "full_name": "career-ops-hq/career-ops",
+    "url": "https://github.com/career-ops-hq/career-ops",
+    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
+    "stars": 74067,
+    "language": "JavaScript",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+    "name": "daily_stock_analysis",
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "stars": 66183,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "hugohe3/ppt-master": {
+    "name": "ppt-master",
+    "full_name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks\u2014with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. \u00b7 by Hugo He",
+    "stars": 60345,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "bojieli/ai-agent-book": {
+    "name": "ai-agent-book",
+    "full_name": "bojieli/ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+    "stars": 53515,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "CherryHQ/cherry-studio": {
+    "name": "cherry-studio",
+    "full_name": "CherryHQ/cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "stars": 52540,
+    "language": "TypeScript",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "HKUDS/nanobot": {
+    "name": "nanobot",
+    "full_name": "HKUDS/nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+    "stars": 48961,
+    "language": "Python",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "HKUDS/DeepTutor": {
+    "name": "DeepTutor",
+    "full_name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "stars": 41146,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "darknessomi/musicbox": {
+    "name": "musicbox",
+    "full_name": "darknessomi/musicbox",
+    "url": "https://github.com/darknessomi/musicbox",
+    "description": "\u7f51\u6613\u4e91\u97f3\u4e50\u547d\u4ee4\u884c\u7248\u672c",
+    "stars": 9857,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "FlorianBruniaux/claude-code-ultimate-guide": {
+    "name": "claude-code-ultimate-guide",
+    "full_name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.",
+    "stars": 6144,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "mixn/carbon-now-cli": {
+    "name": "carbon-now-cli",
+    "full_name": "mixn/carbon-now-cli",
+    "url": "https://github.com/mixn/carbon-now-cli",
+    "description": "\ud83c\udfa8 Beautiful images of your code \u2014 from right inside your terminal.",
+    "stars": 6032,
+    "language": "TypeScript",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "unhappychoice/gitlogue": {
+    "name": "gitlogue",
+    "full_name": "unhappychoice/gitlogue",
+    "url": "https://github.com/unhappychoice/gitlogue",
+    "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+    "stars": 5105,
+    "language": "Rust",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "fosslife/awesome-ricing": {
+    "name": "awesome-ricing",
+    "full_name": "fosslife/awesome-ricing",
+    "url": "https://github.com/fosslife/awesome-ricing",
+    "description": "A curated list of awesome tools and technology to help you out with ricing on linux",
+    "stars": 4545,
+    "language": "N/A",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "Observal/Observal": {
+    "name": "Observal",
+    "full_name": "Observal/Observal",
+    "url": "https://github.com/Observal/Observal",
+    "description": "Observal is self-hosted registry for your coding agent extensions with a built in insight engine.  Setup Observal, define the scope and share your Skills, MCPs and Agents with your peers.",
+    "stars": 4358,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "antfu-collective/taze": {
+    "name": "taze",
+    "full_name": "antfu-collective/taze",
+    "url": "https://github.com/antfu-collective/taze",
+    "description": "\ud83e\udd66 A modern cli tool that keeps your deps fresh",
+    "stars": 4288,
+    "language": "TypeScript",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "itchyny/gojq": {
+    "name": "gojq",
+    "full_name": "itchyny/gojq",
+    "url": "https://github.com/itchyny/gojq",
+    "description": "Pure Go implementation of jq",
+    "stars": 3812,
+    "language": "Go",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "davepoon/buildwithclaude": {
+    "name": "buildwithclaude",
+    "full_name": "davepoon/buildwithclaude",
+    "url": "https://github.com/davepoon/buildwithclaude",
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+    "stars": 3619,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "browser-use/browser-use": {
+    "name": "browser-use",
+    "full_name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "description": "Agents that use the browser.",
+    "stars": 117658,
+    "language": "Python",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "lightpanda-io/browser": {
+    "name": "browser",
+    "full_name": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "stars": 36279,
+    "language": "Zig",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "CloakHQ/CloakBrowser": {
+    "name": "CloakBrowser",
+    "full_name": "CloakHQ/CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "stars": 32078,
+    "language": "Python",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "feder-cr/invisible_dots": {
+    "name": "invisible_dots",
+    "full_name": "feder-cr/invisible_dots",
+    "url": "https://github.com/feder-cr/invisible_dots",
+    "description": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
+    "stars": 31957,
+    "language": "TypeScript",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "jackwener/OpenCLI": {
+    "name": "OpenCLI",
+    "full_name": "jackwener/OpenCLI",
+    "url": "https://github.com/jackwener/OpenCLI",
+    "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+    "stars": 30074,
+    "language": "JavaScript",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "alibaba/page-agent": {
+    "name": "page-agent",
+    "full_name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "stars": 29386,
+    "language": "TypeScript",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "h4ckf0r0day/obscura": {
+    "name": "obscura",
+    "full_name": "h4ckf0r0day/obscura",
+    "url": "https://github.com/h4ckf0r0day/obscura",
+    "description": "The headless browser for AI agents and web scraping",
+    "stars": 28773,
+    "language": "Rust",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "browserbase/stagehand": {
+    "name": "stagehand",
+    "full_name": "browserbase/stagehand",
+    "url": "https://github.com/browserbase/stagehand",
+    "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+    "stars": 25625,
+    "language": "TypeScript",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "Skyvern-AI/skyvern": {
+    "name": "skyvern",
+    "full_name": "Skyvern-AI/skyvern",
+    "url": "https://github.com/Skyvern-AI/skyvern",
+    "description": "Automate browser based workflows with AI",
+    "stars": 23182,
+    "language": "Python",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "AutomaApp/automa": {
+    "name": "automa",
+    "full_name": "AutomaApp/automa",
+    "url": "https://github.com/AutomaApp/automa",
+    "description": "A browser extension for automating your browser by connecting blocks",
+    "stars": 21658,
+    "language": "Vue",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "rtk-ai/rtk": {
+    "name": "rtk",
+    "full_name": "rtk-ai/rtk",
+    "url": "https://github.com/rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "stars": 82974,
+    "language": "Rust",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "super-productivity/super-productivity": {
+    "name": "super-productivity",
+    "full_name": "super-productivity/super-productivity",
+    "url": "https://github.com/super-productivity/super-productivity",
+    "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+    "stars": 22736,
+    "language": "TypeScript",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "wulkano/Kap": {
+    "name": "Kap",
+    "full_name": "wulkano/Kap",
+    "url": "https://github.com/wulkano/Kap",
+    "description": "An open-source screen recorder built with web technology",
+    "stars": 19393,
+    "language": "TypeScript",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "rowboatlabs/rowboat": {
+    "name": "rowboat",
+    "full_name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "AI coworker with memory and collaboration",
+    "stars": 18009,
+    "language": "TypeScript",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "streetwriters/notesnook": {
+    "name": "notesnook",
+    "full_name": "streetwriters/notesnook",
+    "url": "https://github.com/streetwriters/notesnook",
+    "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+    "stars": 14742,
+    "language": "TypeScript",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "Tianyu199509/DeskBox": {
+    "name": "DeskBox",
+    "full_name": "Tianyu199509/DeskBox",
+    "url": "https://github.com/Tianyu199509/DeskBox",
+    "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+    "stars": 6699,
+    "language": "C#",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "TomBadash/Mouser": {
+    "name": "Mouser",
+    "full_name": "TomBadash/Mouser",
+    "url": "https://github.com/TomBadash/Mouser",
+    "description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+    "stars": 5287,
+    "language": "Python",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "Volmarg/personal-management-system": {
+    "name": "personal-management-system",
+    "full_name": "Volmarg/personal-management-system",
+    "url": "https://github.com/Volmarg/personal-management-system",
+    "description": "Your web application for managing personal data.",
+    "stars": 4170,
+    "language": "PHP",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "basicmachines-co/basic-memory": {
+    "name": "basic-memory",
+    "full_name": "basicmachines-co/basic-memory",
+    "url": "https://github.com/basicmachines-co/basic-memory",
+    "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+    "stars": 4142,
+    "language": "Python",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "Anil-matcha/open-spaces": {
+    "name": "open-spaces",
+    "full_name": "Anil-matcha/open-spaces",
+    "url": "https://github.com/Anil-matcha/open-spaces",
+    "description": "Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.",
+    "stars": 3397,
+    "language": "JavaScript",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-11 23:22:10 UTC"
+  }
+}
