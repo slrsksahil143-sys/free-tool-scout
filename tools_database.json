@@ -398,5 +398,15 @@
     "language": "JavaScript",
     "category": "Open-Source Productivity",
     "first_seen": "2026-10-11 23:22:10 UTC"
+  },
+  "CollaboraOnline/online": {
+    "name": "online",
+    "full_name": "CollaboraOnline/online",
+    "url": "https://github.com/CollaboraOnline/online",
+    "description": "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
+    "stars": 3371,
+    "language": "Shell",
+    "category": "Open-Source Productivity",
+    "first_seen": "2026-10-12 14:49:25 UTC"
   }
 }

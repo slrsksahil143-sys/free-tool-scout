@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-10-12 05:04:34 UTC** | Total scouted: **40** | New this run: **0**
+Last updated: **2026-10-12 14:49:25 UTC** | Total scouted: **41** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -45,3 +45,4 @@ Last updated: **2026-10-12 05:04:34 UTC** | Total scouted: **40** | New this run
 | **[gojq](https://github.com/itchyny/gojq)** | Developer & CLI Tools | Go | ⭐ 3812 | Pure Go implementation of jq |
 | **[buildwithclaude](https://github.com/davepoon/buildwithclaude)** | Developer & CLI Tools | Python | ⭐ 3619 | A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw |
 | **[open-spaces](https://github.com/Anil-matcha/open-spaces)** | Open-Source Productivity | JavaScript | ⭐ 3397 | Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations. |
+| **[online](https://github.com/CollaboraOnline/online)** | Open-Source Productivity | Shell | ⭐ 3371 | Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/. |
