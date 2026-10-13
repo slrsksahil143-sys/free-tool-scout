@@ -5,6 +5,8 @@ import urllib.parse
 from datetime import datetime, timezone
 
 QUERIES = [
+    ("MCP & Protocol Tools", "topic:model-context-protocol+stars:>100"),
+    ("MCP Servers", "topic:mcp-server+stars:>50"),
     ("AI & Automation", "topic:ai-agent+stars:>200"),
     ("Developer & CLI Tools", "topic:cli-tool+stars:>100"),
     ("Workflow & Web Utilities", "topic:browser-automation+stars:>100"),
@@ -15,7 +17,7 @@ DB_FILE = "tools_database.json"
 OUTPUT_MD = "DISCOVERED_TOOLS.md"
 
 def fetch_repos(query):
-    url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=10"
+    url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=15"
     headers = {"User-Agent": "Free-Tool-Scout-Bot"}
     github_token = os.environ.get("GITHUB_TOKEN")
     if github_token:
@@ -61,7 +63,7 @@ def main():
                 new_count += 1
 
     with open(DB_FILE, "w", encoding="utf-8") as f:
-        json.dump(db, f, indent=2)
+        json.dump(db, f, indent=2, ensure_ascii=False)
 
     # Generate Markdown summary
     md_content = [
@@ -75,7 +77,7 @@ def main():
     sorted_tools = sorted(db.values(), key=lambda x: x.get("stars", 0), reverse=True)
     for tool in sorted_tools:
         name_link = f"[{tool['name']}]({tool['url']})"
-        desc = (tool['description'] or '').replace("|", "\\|").replace("\n", " ")
+        desc = (tool.get("description") or "").replace("|", "\\|").replace("\n", " ")
         md_content.append(f"| **{name_link}** | {tool['category']} | {tool['language']} | ⭐ {tool['stars']} | {desc} |")
 
     with open(OUTPUT_MD, "w", encoding="utf-8") as f:
