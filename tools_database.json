@@ -978,5 +978,15 @@
     "language": "TypeScript",
     "category": "MCP Servers",
     "first_seen": "2026-10-16 10:59:33 UTC"
+  },
+  "jub0t/Concat": {
+    "name": "Concat",
+    "full_name": "jub0t/Concat",
+    "url": "https://github.com/jub0t/Concat",
+    "description": "The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.",
+    "stars": 8069,
+    "language": "Rust",
+    "category": "MCP & Protocol Tools",
+    "first_seen": "2026-10-17 15:13:41 UTC"
   }
 }

@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-10-17 10:21:00 UTC** | Total scouted: **98** | New this run: **0**
+Last updated: **2026-10-17 15:13:41 UTC** | Total scouted: **99** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -78,6 +78,7 @@ Last updated: **2026-10-17 10:21:00 UTC** | Total scouted: **98** | New this run
 | **[musicbox](https://github.com/darknessomi/musicbox)** | Developer & CLI Tools | Python | ⭐ 9857 | 网易云音乐命令行版本 |
 | **[bifrost](https://github.com/maximhq/bifrost)** | MCP & Protocol Tools | Go | ⭐ 8746 | Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS. |
 | **[mcp-agent](https://github.com/lastmile-ai/mcp-agent)** | MCP & Protocol Tools | Python | ⭐ 8573 | Build effective agents using Model Context Protocol and simple workflow patterns |
+| **[Concat](https://github.com/jub0t/Concat)** | MCP & Protocol Tools | Rust | ⭐ 8069 | The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API. |
 | **[Upsonic](https://github.com/Upsonic/Upsonic)** | MCP & Protocol Tools | Python | ⭐ 7958 | Build autonomous AI agents in Python. |
 | **[DeskBox](https://github.com/Tianyu199509/DeskBox)** | Open-Source Productivity | C# | ⭐ 6699 | A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. |
 | **[claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)** | Developer & CLI Tools | Python | ⭐ 6144 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines. |
