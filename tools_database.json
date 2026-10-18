@@ -988,5 +988,15 @@
     "language": "Rust",
     "category": "MCP & Protocol Tools",
     "first_seen": "2026-10-17 15:13:41 UTC"
+  },
+  "can1357/oh-my-pi": {
+    "name": "oh-my-pi",
+    "full_name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+    "stars": 35846,
+    "language": "TypeScript",
+    "category": "AI & Automation",
+    "first_seen": "2026-10-18 20:18:31 UTC"
   }
 }
