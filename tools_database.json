@@ -998,5 +998,15 @@
     "language": "TypeScript",
     "category": "AI & Automation",
     "first_seen": "2026-10-18 20:18:31 UTC"
+  },
+  "xerj-org/xerj": {
+    "name": "xerj",
+    "full_name": "xerj-org/xerj",
+    "url": "https://github.com/xerj-org/xerj",
+    "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+    "stars": 10619,
+    "language": "Rust",
+    "category": "MCP & Protocol Tools",
+    "first_seen": "2026-10-20 04:04:12 UTC"
   }
 }

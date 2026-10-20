@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-10-19 22:07:52 UTC** | Total scouted: **100** | New this run: **0**
+Last updated: **2026-10-20 04:04:12 UTC** | Total scouted: **101** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -76,6 +76,7 @@ Last updated: **2026-10-19 22:07:52 UTC** | Total scouted: **100** | New this ru
 | **[holaOS](https://github.com/holaboss-ai/holaOS)** | MCP & Protocol Tools | TypeScript | ⭐ 11452 | Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines. |
 | **[tyk](https://github.com/TykTechnologies/tyk)** | MCP & Protocol Tools | Go | ⭐ 10859 | Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol) |
 | **[mcp-use](https://github.com/mcp-use/mcp-use)** | MCP & Protocol Tools | TypeScript | ⭐ 10753 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. |
+| **[xerj](https://github.com/xerj-org/xerj)** | MCP & Protocol Tools | Rust | ⭐ 10619 | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. |
 | **[musicbox](https://github.com/darknessomi/musicbox)** | Developer & CLI Tools | Python | ⭐ 9857 | 网易云音乐命令行版本 |
 | **[bifrost](https://github.com/maximhq/bifrost)** | MCP & Protocol Tools | Go | ⭐ 8746 | Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS. |
 | **[mcp-agent](https://github.com/lastmile-ai/mcp-agent)** | MCP & Protocol Tools | Python | ⭐ 8573 | Build effective agents using Model Context Protocol and simple workflow patterns |
