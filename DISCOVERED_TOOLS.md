@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-10-21 11:24:32 UTC** | Total scouted: **101** | New this run: **0**
+Last updated: **2026-10-21 16:51:15 UTC** | Total scouted: **102** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -44,6 +44,7 @@ Last updated: **2026-10-21 11:24:32 UTC** | Total scouted: **101** | New this ru
 | **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** | AI & Automation | TypeScript | ⭐ 37985 | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol |
 | **[browser](https://github.com/lightpanda-io/browser)** | Workflow & Web Utilities | Zig | ⭐ 36279 | Lightpanda: the headless browser designed for AI and automation |
 | **[next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** | MCP Servers | TypeScript | ⭐ 36274 | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. |
+| **[Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** | AI & Automation | Python | ⭐ 36142 | "Vibe-Trading: Your Personal Trading Agent" |
 | **[oh-my-pi](https://github.com/can1357/oh-my-pi)** | AI & Automation | TypeScript | ⭐ 35846 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
 | **[DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** | AI & Automation | Go | ⭐ 35774 | A reliable coding agent for complex software engineering tasks. |
 | **[github-mcp-server](https://github.com/github/github-mcp-server)** | MCP Servers | Go | ⭐ 33576 | GitHub's official MCP Server |
