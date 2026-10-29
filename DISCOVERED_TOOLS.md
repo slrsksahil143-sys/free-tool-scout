@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-10-29 12:32:08 UTC** | Total scouted: **102** | New this run: **0**
+Last updated: **2026-10-29 22:33:57 UTC** | Total scouted: **103** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -89,6 +89,7 @@ Last updated: **2026-10-29 12:32:08 UTC** | Total scouted: **102** | New this ru
 | **[Mouser](https://github.com/TomBadash/Mouser)** | Open-Source Productivity | Python | ⭐ 5287 | A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice. |
 | **[gitlogue](https://github.com/unhappychoice/gitlogue)** | Developer & CLI Tools | Rust | ⭐ 5105 | A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. |
 | **[awesome-ricing](https://github.com/fosslife/awesome-ricing)** | Developer & CLI Tools | N/A | ⭐ 4545 | A curated list of awesome tools and technology to help you out with ricing on linux |
+| **[AgenticResourceRegistry](https://github.com/AgenticResourceRegistry/AgenticResourceRegistry)** | Developer & CLI Tools | Python | ⭐ 4534 | Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more. |
 | **[Observal](https://github.com/Observal/Observal)** | Developer & CLI Tools | Python | ⭐ 4358 | Observal is self-hosted registry for your coding agent extensions with a built in insight engine.  Setup Observal, define the scope and share your Skills, MCPs and Agents with your peers. |
 | **[taze](https://github.com/antfu-collective/taze)** | Developer & CLI Tools | TypeScript | ⭐ 4288 | 🥦 A modern cli tool that keeps your deps fresh |
 | **[personal-management-system](https://github.com/Volmarg/personal-management-system)** | Open-Source Productivity | PHP | ⭐ 4170 | Your web application for managing personal data. |

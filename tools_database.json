@@ -1018,5 +1018,15 @@
     "language": "Python",
     "category": "AI & Automation",
     "first_seen": "2026-10-21 16:51:15 UTC"
+  },
+  "AgenticResourceRegistry/AgenticResourceRegistry": {
+    "name": "AgenticResourceRegistry",
+    "full_name": "AgenticResourceRegistry/AgenticResourceRegistry",
+    "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry",
+    "description": "Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more.",
+    "stars": 4534,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-10-29 22:33:57 UTC"
   }
 }
