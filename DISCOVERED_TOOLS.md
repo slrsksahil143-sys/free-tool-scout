@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-10-31 16:59:51 UTC** | Total scouted: **104** | New this run: **0**
+Last updated: **2026-10-31 21:11:59 UTC** | Total scouted: **105** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -100,6 +100,7 @@ Last updated: **2026-10-31 16:59:51 UTC** | Total scouted: **104** | New this ru
 | **[open-spaces](https://github.com/Anil-matcha/open-spaces)** | Open-Source Productivity | JavaScript | ⭐ 3397 | Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations. |
 | **[online](https://github.com/CollaboraOnline/online)** | Open-Source Productivity | Shell | ⭐ 3371 | Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/. |
 | **[Siftly](https://github.com/viperrcrypto/Siftly)** | Open-Source Productivity | TypeScript | ⭐ 3067 | Local Twitter/X bookmark organizer with AI categorization and mindmap visualization |
+| **[TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** | Open-Source Productivity | Python | ⭐ 2943 | Experience-Driven Black-Box Cost Control for Coding Agents |
 | **[ccs](https://github.com/kaitranntt/ccs)** | Developer & CLI Tools | TypeScript | ⭐ 2886 | Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. |
 | **[tach](https://github.com/tach-org/tach)** | Open-Source Productivity | Rust | ⭐ 2839 | A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust |
 | **[CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)** | Developer & CLI Tools | TypeScript | ⭐ 2511 | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ |
