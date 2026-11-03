@@ -1048,5 +1048,15 @@
     "language": "Python",
     "category": "Open-Source Productivity",
     "first_seen": "2026-10-31 21:11:59 UTC"
+  },
+  "axoviq-ai/synthadoc": {
+    "name": "synthadoc",
+    "full_name": "axoviq-ai/synthadoc",
+    "url": "https://github.com/axoviq-ai/synthadoc",
+    "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
+    "stars": 1802,
+    "language": "Python",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-11-03 23:00:12 UTC"
   }
 }

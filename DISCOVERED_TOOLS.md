@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-03 13:50:51 UTC** | Total scouted: **105** | New this run: **0**
+Last updated: **2026-11-03 23:00:12 UTC** | Total scouted: **106** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -109,4 +109,5 @@ Last updated: **2026-11-03 13:50:51 UTC** | Total scouted: **105** | New this ru
 | **[academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt)** | Open-Source Productivity | N/A | ⭐ 2093 | 一套为研究生和学术研究者设计的完整AI Prompt库  📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个完整的论证模板  🚀 核心优势： ⚡ 节省时间 50-70%（选题3-5天而不是2-3周） 🎯 科学方法（基于系统的5维度评估体系） 💡 即插即用（所有Prompt直接复制可用） 📚 全流程覆盖（从选题到出版的完整方案）  🎓 适用人群： 👨‍🎓 硕士研究生 \| 博士研究生 \| 本科毕业设计 \| 学术研究者 \| 内容创作者   |
 | **[amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)** | Open-Source Productivity | Rust | ⭐ 1980 | ✨ Agentic chat experience in your terminal. Build applications using natural language. |
 | **[ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)** | Open-Source Productivity | Python | ⭐ 1943 | ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required. |
+| **[synthadoc](https://github.com/axoviq-ai/synthadoc)** | Developer & CLI Tools | Python | ⭐ 1802 | Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools. |
 | **[mob](https://github.com/remotemobprogramming/mob)** | Developer & CLI Tools | Go | ⭐ 1790 | Tool for smooth git handover. |
