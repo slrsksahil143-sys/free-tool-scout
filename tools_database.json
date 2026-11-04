@@ -1058,5 +1058,15 @@
     "language": "Python",
     "category": "Developer & CLI Tools",
     "first_seen": "2026-11-03 23:00:12 UTC"
+  },
+  "feder-cr/Jobs_Applier_AI_Agent_AIHawk": {
+    "name": "Jobs_Applier_AI_Agent_AIHawk",
+    "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+    "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+    "description": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
+    "stars": 32385,
+    "language": "TypeScript",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-11-04 13:58:05 UTC"
   }
 }

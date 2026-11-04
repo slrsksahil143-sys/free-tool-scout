@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-04 05:27:57 UTC** | Total scouted: **106** | New this run: **0**
+Last updated: **2026-11-04 13:58:05 UTC** | Total scouted: **107** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -48,6 +48,7 @@ Last updated: **2026-11-04 05:27:57 UTC** | Total scouted: **106** | New this ru
 | **[oh-my-pi](https://github.com/can1357/oh-my-pi)** | AI & Automation | TypeScript | ⭐ 35846 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
 | **[DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** | AI & Automation | Go | ⭐ 35774 | A reliable coding agent for complex software engineering tasks. |
 | **[github-mcp-server](https://github.com/github/github-mcp-server)** | MCP Servers | Go | ⭐ 33576 | GitHub's official MCP Server |
+| **[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** | Workflow & Web Utilities | TypeScript | ⭐ 32385 | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. |
 | **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** | Workflow & Web Utilities | Python | ⭐ 32078 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 | **[invisible_dots](https://github.com/feder-cr/invisible_dots)** | Workflow & Web Utilities | TypeScript | ⭐ 31957 | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. |
 | **[mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)** | MCP & Protocol Tools | Python | ⭐ 30611 | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. |
