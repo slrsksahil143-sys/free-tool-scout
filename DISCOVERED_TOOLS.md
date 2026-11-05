@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-05 05:47:27 UTC** | Total scouted: **107** | New this run: **0**
+Last updated: **2026-11-05 14:17:58 UTC** | Total scouted: **108** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -48,6 +48,7 @@ Last updated: **2026-11-05 05:47:27 UTC** | Total scouted: **107** | New this ru
 | **[oh-my-pi](https://github.com/can1357/oh-my-pi)** | AI & Automation | TypeScript | ⭐ 35846 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
 | **[DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** | AI & Automation | Go | ⭐ 35774 | A reliable coding agent for complex software engineering tasks. |
 | **[github-mcp-server](https://github.com/github/github-mcp-server)** | MCP Servers | Go | ⭐ 33576 | GitHub's official MCP Server |
+| **[Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)** | Workflow & Web Utilities | Python | ⭐ 32389 | Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch. |
 | **[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** | Workflow & Web Utilities | TypeScript | ⭐ 32385 | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. |
 | **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** | Workflow & Web Utilities | Python | ⭐ 32078 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 | **[invisible_dots](https://github.com/feder-cr/invisible_dots)** | Workflow & Web Utilities | TypeScript | ⭐ 31957 | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. |

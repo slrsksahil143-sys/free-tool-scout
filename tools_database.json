@@ -1068,5 +1068,15 @@
     "language": "TypeScript",
     "category": "Workflow & Web Utilities",
     "first_seen": "2026-11-04 13:58:05 UTC"
+  },
+  "feder-cr/Jobs_Applier_AI_Agent": {
+    "name": "Jobs_Applier_AI_Agent",
+    "full_name": "feder-cr/Jobs_Applier_AI_Agent",
+    "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+    "description": "Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch.",
+    "stars": 32389,
+    "language": "Python",
+    "category": "Workflow & Web Utilities",
+    "first_seen": "2026-11-05 14:17:58 UTC"
   }
 }
