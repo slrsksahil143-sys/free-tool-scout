@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-07 12:40:30 UTC** | Total scouted: **108** | New this run: **0**
+Last updated: **2026-11-07 21:36:08 UTC** | Total scouted: **109** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -83,6 +83,7 @@ Last updated: **2026-11-07 12:40:30 UTC** | Total scouted: **108** | New this ru
 | **[musicbox](https://github.com/darknessomi/musicbox)** | Developer & CLI Tools | Python | ⭐ 9857 | 网易云音乐命令行版本 |
 | **[dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** | MCP & Protocol Tools | TypeScript | ⭐ 8975 | 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw. |
 | **[bifrost](https://github.com/maximhq/bifrost)** | MCP & Protocol Tools | Go | ⭐ 8746 | Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS. |
+| **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** | MCP & Protocol Tools | Python | ⭐ 8680 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 |
 | **[mcp-agent](https://github.com/lastmile-ai/mcp-agent)** | MCP & Protocol Tools | Python | ⭐ 8573 | Build effective agents using Model Context Protocol and simple workflow patterns |
 | **[Concat](https://github.com/jub0t/Concat)** | MCP & Protocol Tools | Rust | ⭐ 8069 | The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API. |
 | **[Upsonic](https://github.com/Upsonic/Upsonic)** | MCP & Protocol Tools | Python | ⭐ 7958 | Build autonomous AI agents in Python. |
