@@ -1088,5 +1088,15 @@
     "language": "Python",
     "category": "MCP & Protocol Tools",
     "first_seen": "2026-11-07 21:36:08 UTC"
+  },
+  "voidcosmos/npkill": {
+    "name": "npkill",
+    "full_name": "voidcosmos/npkill",
+    "url": "https://github.com/voidcosmos/npkill",
+    "description": "Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹",
+    "stars": 9503,
+    "language": "TypeScript",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-11-10 22:58:07 UTC"
   }
 }

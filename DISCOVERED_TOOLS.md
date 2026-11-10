@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-10 14:33:20 UTC** | Total scouted: **109** | New this run: **0**
+Last updated: **2026-11-10 22:58:07 UTC** | Total scouted: **110** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -81,6 +81,7 @@ Last updated: **2026-11-10 14:33:20 UTC** | Total scouted: **109** | New this ru
 | **[mcp-use](https://github.com/mcp-use/mcp-use)** | MCP & Protocol Tools | TypeScript | ⭐ 10753 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. |
 | **[xerj](https://github.com/xerj-org/xerj)** | MCP & Protocol Tools | Rust | ⭐ 10619 | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. |
 | **[musicbox](https://github.com/darknessomi/musicbox)** | Developer & CLI Tools | Python | ⭐ 9857 | 网易云音乐命令行版本 |
+| **[npkill](https://github.com/voidcosmos/npkill)** | Developer & CLI Tools | TypeScript | ⭐ 9503 | Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹 |
 | **[dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** | MCP & Protocol Tools | TypeScript | ⭐ 8975 | 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw. |
 | **[bifrost](https://github.com/maximhq/bifrost)** | MCP & Protocol Tools | Go | ⭐ 8746 | Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS. |
 | **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** | MCP & Protocol Tools | Python | ⭐ 8680 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 |
