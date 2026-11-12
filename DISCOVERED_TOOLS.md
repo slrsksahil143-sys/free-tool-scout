@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-12 00:15:00 UTC** | Total scouted: **110** | New this run: **0**
+Last updated: **2026-11-12 14:51:16 UTC** | Total scouted: **111** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -76,6 +76,7 @@ Last updated: **2026-11-12 00:15:00 UTC** | Total scouted: **110** | New this ru
 | **[web-ui](https://github.com/browser-use/web-ui)** | Workflow & Web Utilities | Python | ⭐ 16611 | 🖥️ Run AI Agent in your browser. |
 | **[unity-mcp](https://github.com/CoplayDev/unity-mcp)** | MCP & Protocol Tools | C# | ⭐ 14891 | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. |
 | **[notesnook](https://github.com/streetwriters/notesnook)** | Open-Source Productivity | TypeScript | ⭐ 14742 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
+| **[omniget](https://github.com/tonhowtf/omniget)** | MCP & Protocol Tools | Rust | ⭐ 14359 | Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server lets Claude Code, Cursor and Codex queue downloads, and it runs Claude Code, Codex, Gemini CLI and Ollama as agents. |
 | **[holaOS](https://github.com/holaboss-ai/holaOS)** | MCP & Protocol Tools | TypeScript | ⭐ 11452 | Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines. |
 | **[tyk](https://github.com/TykTechnologies/tyk)** | MCP & Protocol Tools | Go | ⭐ 10859 | Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol) |
 | **[mcp-use](https://github.com/mcp-use/mcp-use)** | MCP & Protocol Tools | TypeScript | ⭐ 10753 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. |

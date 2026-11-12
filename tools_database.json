@@ -1098,5 +1098,15 @@
     "language": "TypeScript",
     "category": "Developer & CLI Tools",
     "first_seen": "2026-11-10 22:58:07 UTC"
+  },
+  "tonhowtf/omniget": {
+    "name": "omniget",
+    "full_name": "tonhowtf/omniget",
+    "url": "https://github.com/tonhowtf/omniget",
+    "description": "Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server lets Claude Code, Cursor and Codex queue downloads, and it runs Claude Code, Codex, Gemini CLI and Ollama as agents.",
+    "stars": 14359,
+    "language": "Rust",
+    "category": "MCP & Protocol Tools",
+    "first_seen": "2026-11-12 14:51:16 UTC"
   }
 }
