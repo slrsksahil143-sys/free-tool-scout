@@ -1108,5 +1108,15 @@
     "language": "Rust",
     "category": "MCP & Protocol Tools",
     "first_seen": "2026-11-12 14:51:16 UTC"
+  },
+  "eclipse-theia/theia": {
+    "name": "theia",
+    "full_name": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "description": "Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE.",
+    "stars": 21768,
+    "language": "TypeScript",
+    "category": "MCP & Protocol Tools",
+    "first_seen": "2026-11-18 15:20:26 UTC"
   }
 }

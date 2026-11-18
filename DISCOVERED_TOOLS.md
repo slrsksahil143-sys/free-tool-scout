@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-18 00:44:26 UTC** | Total scouted: **111** | New this run: **0**
+Last updated: **2026-11-18 15:20:26 UTC** | Total scouted: **112** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -64,6 +64,7 @@ Last updated: **2026-11-18 00:44:26 UTC** | Total scouted: **111** | New this ru
 | **[editor](https://github.com/pascalorg/editor)** | MCP & Protocol Tools | TypeScript | ⭐ 24837 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
 | **[skyvern](https://github.com/Skyvern-AI/skyvern)** | Workflow & Web Utilities | Python | ⭐ 23182 | Automate browser based workflows with AI |
 | **[super-productivity](https://github.com/super-productivity/super-productivity)** | Open-Source Productivity | TypeScript | ⭐ 22736 | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. |
+| **[theia](https://github.com/eclipse-theia/theia)** | MCP & Protocol Tools | TypeScript | ⭐ 21768 | Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE. |
 | **[automa](https://github.com/AutomaApp/automa)** | Workflow & Web Utilities | Vue | ⭐ 21658 | A browser extension for automating your browser by connecting blocks |
 | **[Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)** | MCP & Protocol Tools | Python | ⭐ 20625 | 🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。\| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up.  |
 | **[Kap](https://github.com/wulkano/Kap)** | Open-Source Productivity | TypeScript | ⭐ 19393 | An open-source screen recorder built with web technology |
