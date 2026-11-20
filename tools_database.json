@@ -1118,5 +1118,15 @@
     "language": "TypeScript",
     "category": "MCP & Protocol Tools",
     "first_seen": "2026-11-18 15:20:26 UTC"
+  },
+  "rocketride-org/rocketride-server": {
+    "name": "rocketride-server",
+    "full_name": "rocketride-org/rocketride-server",
+    "url": "https://github.com/rocketride-org/rocketride-server",
+    "description": "RocketRide is an open source AI meta-harness with the only enterprise-grade runtime built on C++. Build, test and publish durable agents that scale in production.",
+    "stars": 20008,
+    "language": "Python",
+    "category": "MCP & Protocol Tools",
+    "first_seen": "2026-11-20 15:03:55 UTC"
   }
 }
