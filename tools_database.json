@@ -1128,5 +1128,15 @@
     "language": "Python",
     "category": "MCP & Protocol Tools",
     "first_seen": "2026-11-20 15:03:55 UTC"
+  },
+  "made-in-common/taze": {
+    "name": "taze",
+    "full_name": "made-in-common/taze",
+    "url": "https://github.com/made-in-common/taze",
+    "description": "🥦 A modern cli tool that keeps your deps fresh",
+    "stars": 4296,
+    "language": "TypeScript",
+    "category": "Developer & CLI Tools",
+    "first_seen": "2026-11-25 07:39:50 UTC"
   }
 }

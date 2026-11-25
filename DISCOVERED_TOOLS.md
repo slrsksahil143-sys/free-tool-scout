@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-24 22:04:40 UTC** | Total scouted: **113** | New this run: **0**
+Last updated: **2026-11-25 07:39:50 UTC** | Total scouted: **114** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -99,6 +99,7 @@ Last updated: **2026-11-24 22:04:40 UTC** | Total scouted: **113** | New this ru
 | **[awesome-ricing](https://github.com/fosslife/awesome-ricing)** | Developer & CLI Tools | N/A | ⭐ 4545 | A curated list of awesome tools and technology to help you out with ricing on linux |
 | **[AgenticResourceRegistry](https://github.com/AgenticResourceRegistry/AgenticResourceRegistry)** | Developer & CLI Tools | Python | ⭐ 4534 | Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more. |
 | **[Observal](https://github.com/Observal/Observal)** | Developer & CLI Tools | Python | ⭐ 4358 | Observal is self-hosted registry for your coding agent extensions with a built in insight engine.  Setup Observal, define the scope and share your Skills, MCPs and Agents with your peers. |
+| **[taze](https://github.com/made-in-common/taze)** | Developer & CLI Tools | TypeScript | ⭐ 4296 | 🥦 A modern cli tool that keeps your deps fresh |
 | **[taze](https://github.com/antfu-collective/taze)** | Developer & CLI Tools | TypeScript | ⭐ 4288 | 🥦 A modern cli tool that keeps your deps fresh |
 | **[personal-management-system](https://github.com/Volmarg/personal-management-system)** | Open-Source Productivity | PHP | ⭐ 4170 | Your web application for managing personal data. |
 | **[basic-memory](https://github.com/basicmachines-co/basic-memory)** | Open-Source Productivity | Python | ⭐ 4142 | AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN |
