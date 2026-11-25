@@ -1138,5 +1138,15 @@
     "language": "TypeScript",
     "category": "Developer & CLI Tools",
     "first_seen": "2026-11-25 07:39:50 UTC"
+  },
+  "kajisho5/ffmpeg-skill": {
+    "name": "ffmpeg-skill",
+    "full_name": "kajisho5/ffmpeg-skill",
+    "url": "https://github.com/kajisho5/ffmpeg-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+    "stars": 11058,
+    "language": "Python",
+    "category": "MCP & Protocol Tools",
+    "first_seen": "2026-11-25 21:20:25 UTC"
   }
 }

@@ -1,6 +1,6 @@
 # 🛠️ 24/7 Discovered Free & Open-Source Tools
 
-Last updated: **2026-11-25 07:39:50 UTC** | Total scouted: **114** | New this run: **1**
+Last updated: **2026-11-25 21:20:25 UTC** | Total scouted: **115** | New this run: **1**
 
 
 | Tool | Category | Language | Stars | Description |
@@ -80,6 +80,7 @@ Last updated: **2026-11-25 07:39:50 UTC** | Total scouted: **114** | New this ru
 | **[notesnook](https://github.com/streetwriters/notesnook)** | Open-Source Productivity | TypeScript | ⭐ 14742 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
 | **[omniget](https://github.com/tonhowtf/omniget)** | MCP & Protocol Tools | Rust | ⭐ 14359 | Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server lets Claude Code, Cursor and Codex queue downloads, and it runs Claude Code, Codex, Gemini CLI and Ollama as agents. |
 | **[holaOS](https://github.com/holaboss-ai/holaOS)** | MCP & Protocol Tools | TypeScript | ⭐ 11452 | Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines. |
+| **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** | MCP & Protocol Tools | Python | ⭐ 11058 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
 | **[tyk](https://github.com/TykTechnologies/tyk)** | MCP & Protocol Tools | Go | ⭐ 10859 | Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol) |
 | **[mcp-use](https://github.com/mcp-use/mcp-use)** | MCP & Protocol Tools | TypeScript | ⭐ 10753 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. |
 | **[xerj](https://github.com/xerj-org/xerj)** | MCP & Protocol Tools | Rust | ⭐ 10619 | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. |
